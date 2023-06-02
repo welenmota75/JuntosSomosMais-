@@ -1,0 +1,15 @@
+br\edu\ifsp\spo\lp2a4\spring\model\coordinates.class
+br\edu\ifsp\spo\lp2a4\spring\controller\BeanController.class
+br\edu\ifsp\spo\lp2a4\spring\model\Results.class
+br\edu\ifsp\spo\lp2a4\spring\model\timezone.class
+br\edu\ifsp\spo\lp2a4\spring\repository\IPessoa.class
+br\edu\ifsp\spo\lp2a4\spring\model\Pessoa.class
+br\edu\ifsp\spo\lp2a4\spring\dao\PessoaDao.class
+br\edu\ifsp\spo\lp2a4\spring\Application.class
+br\edu\ifsp\spo\lp2a4\spring\controller\JsonObjectListDeserializer.class
+br\edu\ifsp\spo\lp2a4\spring\controller\PessoaController.class
+br\edu\ifsp\spo\lp2a4\spring\model\dob.class
+br\edu\ifsp\spo\lp2a4\spring\model\location.class
+br\edu\ifsp\spo\lp2a4\spring\model\registered.class
+br\edu\ifsp\spo\lp2a4\spring\model\picture.class
+br\edu\ifsp\spo\lp2a4\spring\model\name.class
