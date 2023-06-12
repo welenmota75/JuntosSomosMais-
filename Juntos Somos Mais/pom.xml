@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.ifsp.spo.lp2a4</groupId>
-	<artifactIgroupId>br.edu.ifsp.spo.lp2a4</artifactId>
+	<artifactId>br.edu.ifsp.spo.lp2a4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Juntos Somos Mais/name>
+	<name>Juntos Somos Mais</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
@@ -120,11 +120,6 @@
 		</plugins>
 	</build>
 
-</name></artifactIgroupId>
-	<dependencies>
-		<dependency>
-			<groupId>br.edu.ifsp.spo.lp2a4</groupId>
-			<artifactId>Juntos Somos Mais</artifactId>
-		</dependency>
-	</dependencies>
+
+
 </project>
